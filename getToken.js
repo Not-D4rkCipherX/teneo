@@ -2,7 +2,7 @@ const fs = require("fs/promises");
 const axios = require("axios");
 const { loadData, sleep } = require("./utils");
 
-const reffCode = "OwAG3kib1ivOJG4Y0OCZ8lJETa6ypvsDtGmdhcjA";
+const reffCode = "emcclcoaglgcpoognfiggmhnhgabppkm";
 
 async function readAccounts(filePath) {
   try {
