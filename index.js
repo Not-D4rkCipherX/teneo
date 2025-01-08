@@ -133,7 +133,7 @@ function displayHeader() {
   const headerLines = [
     "<|============================================|>",
     "                  Teneo Bot                   ",
-    "          github.com/recitativonika           ",
+    "            https://t.me/D4rkCipherX          ",
     "<|============================================|>"
   ];
 
