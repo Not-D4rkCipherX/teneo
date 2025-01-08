@@ -1,2 +1,0 @@
-email_1|pass_1
-email_2|pass_2
