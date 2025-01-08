@@ -11,11 +11,11 @@ Teneo bot is a simple tool designed to automate the node interaction.
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/recitativonika/teneo-bot.git
+   git clone https://github.com/Not-D4rkCipherX/teneo.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd teneo-bot
+   cd tene
    ```
 4. Install the necessary dependencies:
    ```bash
@@ -56,5 +56,5 @@ Dashboard Link : [Dashboard](https://dashboard.teneo.pro/dashboard)
 
 My reff code if you want to use :) : 
 ```bash
-ldepa
+fGgJ4
 ```
